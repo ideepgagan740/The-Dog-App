@@ -1,0 +1,20 @@
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* border:10px solid red; */
+  }
+  .card-img-top{
+    height:300px;
+    /* width: 375px; */
+    /* height:20vh; */
+    /* width: 20vw; */
+  }
+  .imgBox{
+    background-color:  #1a2124;
+  }
+  .imgBox:hover{
+    transition-duration: 1s;
+    background-color:  #2b3336;
+  }
+  

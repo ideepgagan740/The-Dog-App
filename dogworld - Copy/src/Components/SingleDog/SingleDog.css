@@ -1,0 +1,21 @@
+.containerSearch{
+    height: 70vh;
+    background-color: black;
+}
+.card-img-top {
+    height: 60vh;
+    opacity: 0.5;
+}
+.searchDog1{
+    height: 70vh;
+    position: relative;
+}
+#breed{
+    
+    margin-top: 40%;
+    height: 20%;
+}
+#dropdown{
+    width: 40%;
+    height: 50%;
+}
