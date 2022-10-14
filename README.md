@@ -2,11 +2,6 @@
 
 In the project directory, you can run:
 
-<b>npm start</b><br><br>
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
-
-The page will reload when you make changes.
 You may also see any lint errors in the console.
 <br><br>
 <b>Tools and Technologies</b>: Visual Studio code, HTML, Tailwind CSS, Bootstrap, Java Script, React
@@ -32,3 +27,9 @@ You may also see any lint errors in the console.
 <br>
 <b>Video Link</b>
 https://www.loom.com/share/47efece728804020ac84064c78ac847e
+
+<b>npm start</b><br><br>
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
+
+The page will reload when you make changes.
